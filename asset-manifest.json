@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/expense-tracker-app-using-react-chart/static/css/main.f855e6bc.css",
+    "main.js": "/expense-tracker-app-using-react-chart/static/js/main.267049f0.js",
+    "static/js/453.093f2438.chunk.js": "/expense-tracker-app-using-react-chart/static/js/453.093f2438.chunk.js",
+    "index.html": "/expense-tracker-app-using-react-chart/index.html",
+    "main.f855e6bc.css.map": "/expense-tracker-app-using-react-chart/static/css/main.f855e6bc.css.map",
+    "main.267049f0.js.map": "/expense-tracker-app-using-react-chart/static/js/main.267049f0.js.map",
+    "453.093f2438.chunk.js.map": "/expense-tracker-app-using-react-chart/static/js/453.093f2438.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.267049f0.js"
+  ]
+}
